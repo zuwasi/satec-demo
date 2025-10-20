@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>app_3437</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>adc</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/adc</location>
+		</link>
+		<link>
+			<name>aon_rtc</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/aon_rtc</location>
+		</link>
+		<link>
+			<name>app_gatt</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/projects/app_gatt</location>
+		</link>
+		<link>
+			<name>data_path</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/data_path</location>
+		</link>
+		<link>
+			<name>dma</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/dma</location>
+		</link>
+		<link>
+			<name>flash</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/flash</location>
+		</link>
+		<link>
+			<name>gpio</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/gpio</location>
+		</link>
+		<link>
+			<name>i2s</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/i2s</location>
+		</link>
+		<link>
+			<name>icu</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/icu</location>
+		</link>
+		<link>
+			<name>intc</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/intc</location>
+		</link>
+		<link>
+			<name>main</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/arch/main</location>
+		</link>
+		<link>
+			<name>prf</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/prf</location>
+		</link>
+		<link>
+			<name>pwm</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/pwm</location>
+		</link>
+		<link>
+			<name>rgb</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/rgb</location>
+		</link>
+		<link>
+			<name>spi</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/spi</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/rf/src</location>
+		</link>
+		<link>
+			<name>src1</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/profiles/bas/bass/src</location>
+		</link>
+		<link>
+			<name>src2</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/rwip/src</location>
+		</link>
+		<link>
+			<name>src3</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/nvds/src</location>
+		</link>
+		<link>
+			<name>src4</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/profiles/oad/src</location>
+		</link>
+		<link>
+			<name>src5</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/profiles/fee0/src</location>
+		</link>
+		<link>
+			<name>src6</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/profiles/dis/diss/src</location>
+		</link>
+		<link>
+			<name>system</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/system</location>
+		</link>
+		<link>
+			<name>timer0</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/timer0</location>
+		</link>
+		<link>
+			<name>uart</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/uart</location>
+		</link>
+		<link>
+			<name>uart0</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/uart0</location>
+		</link>
+		<link>
+			<name>uart1</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/uart1</location>
+		</link>
+		<link>
+			<name>util</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/util</location>
+		</link>
+		<link>
+			<name>wdt</name>
+			<type>2</type>
+			<location>C:/Parasoft/virality/Source code/BK3437/SDK/src/plf/beken/src/driver/wdt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
