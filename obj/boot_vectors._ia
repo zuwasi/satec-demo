@@ -1,0 +1,5 @@
+--cpu ARM9E -g --apcs=interwork --pd "__MICROLIB SETA 1"
+-I C:\Keil_v5\MDK512\ARM\RV31\INC
+-I C:\Keil_v5\MDK512\ARM\CMSIS\Include
+
+-o .\obj\boot_vectors.o --depend .\obj\boot_vectors.d "..\..\src\system\boot_vectors.s"

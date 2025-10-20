@@ -1,0 +1,1 @@
+.\output\BinConvert  -oad .\output\boot\bk3437_boot.bin  .\output\stack\bk3437_stack.bin  .\output\app\bk3437_app.bin -m 0x1000 -l 0x1E200 -v 0x0027 -rom_v 0x0007 -e 00000000 00000000 00000000 00000000

@@ -1,0 +1,13 @@
+.\obj\pwm.o: ..\..\src\plf\beken\src\driver\pwm\pwm.c
+.\obj\pwm.o: .\config\user_config.h
+.\obj\pwm.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\pwm.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\pwm.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\pwm.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\pwm.o: .\config\BK3437_Config.h
+.\obj\pwm.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\pwm.o: ..\..\src\plf\util\bk_printf.h
+.\obj\pwm.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\pwm.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\pwm.o: ..\..\src\plf\beken\src\driver\gpio\driver_gpio.h
+.\obj\pwm.o: ..\..\src\plf\beken\src\driver\pwm\pwm.h

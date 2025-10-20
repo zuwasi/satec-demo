@@ -1,0 +1,10 @@
+.\obj\bk_printf.o: ..\..\src\plf\util\bk_printf.c
+.\obj\bk_printf.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\bk_printf.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\bk_printf.o: ..\..\src\plf\util\bk_printf.h
+.\obj\bk_printf.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\bk_printf.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\bk_printf.o: .\config\user_config.h
+.\obj\bk_printf.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\bk_printf.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\bk_printf.o: .\config\BK3437_Config.h

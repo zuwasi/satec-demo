@@ -1,0 +1,17 @@
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\adc\adc.c
+.\obj\adc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\adc\adc.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\adc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\adc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\gpio\driver_gpio.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\icu\icu.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\intc\intc.h
+.\obj\adc.o: ..\..\src\plf\beken\src\arch\compiler\armgcc\compiler.h
+.\obj\adc.o: .\config\BK3437_Config.h
+.\obj\adc.o: .\config\user_config.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\adc.o: ..\..\src\plf\util\bk_printf.h
+.\obj\adc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\adc.o: ..\..\src\plf\beken\src\driver\flash\driver_flash.h

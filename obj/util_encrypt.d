@@ -1,0 +1,13 @@
+.\obj\util_encrypt.o: ..\..\src\plf\util\util_encrypt.c
+.\obj\util_encrypt.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\string.h
+.\obj\util_encrypt.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\util_encrypt.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\util_encrypt.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\util_encrypt.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\util_encrypt.o: .\config\user_config.h
+.\obj\util_encrypt.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\util_encrypt.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\util_encrypt.o: .\config\BK3437_Config.h
+.\obj\util_encrypt.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\util_encrypt.o: ..\..\src\plf\util\bk_printf.h
+.\obj\util_encrypt.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h

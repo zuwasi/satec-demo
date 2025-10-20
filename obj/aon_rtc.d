@@ -1,0 +1,13 @@
+.\obj\aon_rtc.o: ..\..\src\plf\beken\src\driver\aon_rtc\aon_rtc.c
+.\obj\aon_rtc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\aon_rtc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\string.h
+.\obj\aon_rtc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\aon_rtc.o: ..\..\src\plf\beken\src\driver\aon_rtc\aon_rtc.h
+.\obj\aon_rtc.o: .\config\user_config.h
+.\obj\aon_rtc.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\aon_rtc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\aon_rtc.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\aon_rtc.o: .\config\BK3437_Config.h
+.\obj\aon_rtc.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\aon_rtc.o: ..\..\src\plf\util\bk_printf.h
+.\obj\aon_rtc.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h

@@ -1,0 +1,12 @@
+.\obj\dma.o: ..\..\src\plf\beken\src\driver\dma\dma.c
+.\obj\dma.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\dma.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\dma.o: .\config\user_config.h
+.\obj\dma.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\dma.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\dma.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\dma.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\dma.o: .\config\BK3437_Config.h
+.\obj\dma.o: ..\..\src\plf\util\bk_printf.h
+.\obj\dma.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\dma.o: ..\..\src\plf\beken\src\driver\dma\dma.h

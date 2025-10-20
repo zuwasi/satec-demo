@@ -1,0 +1,15 @@
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\driver\gpio\driver_gpio.c
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\driver\gpio\driver_gpio.h
+.\obj\driver_gpio.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\driver_gpio.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\driver_gpio.o: .\config\BK3437_Config.h
+.\obj\driver_gpio.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\driver_gpio.o: .\config\user_config.h
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\driver_gpio.o: ..\..\src\plf\util\bk_printf.h
+.\obj\driver_gpio.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\driver\icu\icu.h
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\driver\intc\intc.h
+.\obj\driver_gpio.o: ..\..\src\plf\beken\src\arch\compiler\armgcc\compiler.h

@@ -1,0 +1,17 @@
+.\obj\plf_data_path.o: ..\..\src\plf\beken\src\data_path\plf_data_path.c
+.\obj\plf_data_path.o: .\config\rwip_config.h
+.\obj\plf_data_path.o: .\config\user_config.h
+.\obj\plf_data_path.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\plf_data_path.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\plf_data_path.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\plf_data_path.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\plf_data_path.o: .\config\BK3437_Config.h
+.\obj\plf_data_path.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\plf_data_path.o: ..\..\src\plf\util\bk_printf.h
+.\obj\plf_data_path.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\plf_data_path.o: ..\..\src\config\rwble_config.h
+.\obj\plf_data_path.o: ..\..\src\ip\ble\hl\config\rwble_hl_config.h
+.\obj\plf_data_path.o: ..\..\Src\ip\ble\hl\api\rwble_hl_error.h
+.\obj\plf_data_path.o: ..\..\src\ip\ble\hl\config\rwprf_config.h
+.\obj\plf_data_path.o: .\config\rwip_config.h
+.\obj\plf_data_path.o: .\config\rwapp_config.h

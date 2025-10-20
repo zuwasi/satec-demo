@@ -1,0 +1,14 @@
+.\obj\i2s.o: ..\..\src\plf\beken\src\driver\i2s\i2s.c
+.\obj\i2s.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\i2s.o: ..\..\src\plf\beken\src\driver\reg\BK3437_RegList.h
+.\obj\i2s.o: ..\..\src\plf\beken\src\driver\gpio\driver_gpio.h
+.\obj\i2s.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdbool.h
+.\obj\i2s.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\i2s.o: ..\..\src\plf\beken\src\driver\dma\dma.h
+.\obj\i2s.o: .\config\user_config.h
+.\obj\i2s.o: ..\..\src\plf\beken\src\driver\uart0\uart0.h
+.\obj\i2s.o: ..\..\src\plf\beken\src\driver\uart1\uart1.h
+.\obj\i2s.o: .\config\BK3437_Config.h
+.\obj\i2s.o: ..\..\src\plf\util\bk_printf.h
+.\obj\i2s.o: C:\Keil_v5\MDK512\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\i2s.o: ..\..\src\plf\beken\src\driver\i2s\i2s.h
